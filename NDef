@@ -1,5 +1,3 @@
-#NotaDefinitiva
-
 nota=float(input("digite su nota"))
 
 if(nota<3.0):
@@ -9,4 +7,5 @@ elif(nota<=3.5):
 elif(nota<=4.0):
     print("sobresaliente")
 elif(nota<=5.0):
+
     print("excelente")
