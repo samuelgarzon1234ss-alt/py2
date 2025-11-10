@@ -1,5 +1,3 @@
-#EcuacionCuadratica
-
 import math
 
 a=float(input("digite a "))
@@ -12,4 +10,5 @@ if(discriminante>=0 and a!=0):
     print("Tiene solucion")
 else:
     print("No tiene solucion")
+
     
