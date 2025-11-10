@@ -1,5 +1,3 @@
-#SoldadoAptoONoApto
-
 genero=str(input("digite su genero (F o M) "))
 estatura=float(input("digite su estatura en Cm "))
 edad=float(input("digite su edad "))
@@ -16,5 +14,6 @@ else:
 
     
     
+
 
 
