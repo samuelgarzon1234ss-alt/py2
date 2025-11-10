@@ -1,5 +1,3 @@
-#TipoDeArticulo
-
 precio=float(input("digite el valor de tu artivulo"))
 descuento=str(input("digite el tipo de descuento a conocer(textil-elect-cocina-games)"))
 
@@ -17,4 +15,5 @@ elif(descuento== 'games'):
     print("el valor de tu producto es ",V)
 else:
     print("no hay descuento")
+
     
